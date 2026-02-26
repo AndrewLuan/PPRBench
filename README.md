@@ -1,4 +1,8 @@
 # PPRBench
+
+This is the github homepage for the paper **PPRBench: A Process-level Benchmark for LLMs’ Physical Reasoning**.
+
+
 # Test Set Question for Reference:
 
 **(40 points) Uniformly Charged Line Segment and Prolate Spheroidal Capacitor**
