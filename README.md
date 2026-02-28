@@ -4,7 +4,7 @@ This is the github homepage for the paper **PPRBench: A Process-level Benchmark 
 
 **What's in this repo:**
 
-1.train.json
+1.training.json
 
 The full training set.
 
