@@ -84,6 +84,7 @@ python grading/dataset_utils.py dataset/training.json output.json
 ```
 physics_bench_repo/
 ├── dataset/
+│   └── test.md        # Example of test set
 │   └── training.json        # Benchmark problems
 ├── grading/
 │   ├── score.py             # Step 2: LLM-based grading
