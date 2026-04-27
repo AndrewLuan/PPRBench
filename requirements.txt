@@ -1,0 +1,6 @@
+pandas
+openai
+sympy
+numpy
+tqdm
+openpyxl
